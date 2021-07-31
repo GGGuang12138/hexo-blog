@@ -1,0 +1,20 @@
+logo_title: Welcome To Gg Code Space
+
+style: black
+
+favicon: /favicon.ico
+
+menu:
+
+  博客园: https://www.cnblogs.com/gg12138/
+  Github: https://github.com/GGGuang12138/
+
+# 做了域名限制，请改成自己的 KEY
+# 若关闭valine 设置enable为false
+valine:
+  enable: true
+  appId: CmCti21ooOOIzFOhEyFkFvR0-gzGzoHsz
+  appKey: FqiyUqbg7McKN2eG0MCewupf
+
+highlight:
+  enable: true
